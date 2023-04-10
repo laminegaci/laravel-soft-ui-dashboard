@@ -179,7 +179,7 @@
         </li>
       </ul>
     </div>
-    <div class="sidenav-footer mx-3 ">
+    {{-- <div class="sidenav-footer mx-3 ">
       <div class="card card-background shadow-none card-background-mask-secondary" id="sidenavCard">
         <div class="full-background" style="background-image: url('assets/img/curved-images/white-curved.jpg')"></div>
         <div class="card-body text-start p-3 w-100">
@@ -194,5 +194,5 @@
         </div>
       </div>
       <a class="btn bg-gradient-primary mt-3 w-100" href="https://www.creative-tim.com/product/soft-ui-dashboard-pro?ref=sidebarfree">Upgrade to pro</a>
-    </div>
+    </div> --}}
   </aside>
